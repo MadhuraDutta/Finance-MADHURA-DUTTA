@@ -26,7 +26,7 @@ I am an MBA (Finance) student with a strong interest in **Equity Research, Finan
 
 ---
 
-### 2. Technical Trade Planning & Trading Strategy Development – Zomato Ltd. | [Project Report](PASTE_GITHUB_LINK_HERE)
+### 2. Technical Trade Planning & Trading Strategy Development – Zomato Ltd. | [Project Report](https://github.com/MadhuraDutta/Finance-MADHURA-DUTTA/blob/main/TECHNICAL%20ANALYSIS-ZOMATO.pdf)
 
 **Project Overview**
 - Developed a rule-based trading strategy using multiple technical indicators.
