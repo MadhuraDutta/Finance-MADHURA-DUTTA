@@ -1,69 +1,85 @@
 # Finance Portfolio
 
-Welcome to my finance project portfolio.
+Welcome to my Finance Portfolio.
 
-I am an MBA (Finance) student with a strong interest in **Equity Research, Financial Modeling, Valuation, Investment Research, Technical Analysis, Risk Analytics, and Macroeconomic Research**.
+I am an MBA (Finance) student with a strong interest in **Equity Research, Financial Modeling, Valuation, Investment Research, Technical Analysis, Risk Analytics, and Macroeconomic Research**. This repository showcases selected academic projects demonstrating quantitative analysis, financial modelling, technical analysis, and investment research skills.
 
 ---
 
 ## Projects
 
-### 1. Monte Carlo Simulation – Wipro Ltd.
+### 1. Portfolio Risk Analytics using Monte Carlo Simulation – Wipro Ltd. | [ Excel Model](PASTE_GITHUB_LINK_HERE)
 
-Developed a Monte Carlo Simulation model in Microsoft Excel to forecast future stock price movements and quantify portfolio risk using historical market data.
+**Project Overview**
+- Developed a Monte Carlo Simulation model in Microsoft Excel using **Geometric Brownian Motion (GBM)** to forecast future stock price movements.
+- Simulated **1,000 price paths** using 10 years of historical stock price data.
+- Estimated downside risk using **Value at Risk (VaR)** and **Conditional Value at Risk (CVaR)**.
+- Performed correlation analysis to evaluate market relationships.
+- Built the complete quantitative model using Microsoft Excel.
 
-**Key Highlights**
+**Skills Demonstrated**
+- Monte Carlo Simulation
 - Geometric Brownian Motion (GBM)
-- 1,000 Simulation Paths
 - Value at Risk (VaR)
 - Conditional Value at Risk (CVaR)
-- Correlation Analysis
+- Quantitative Risk Analysis
 - Microsoft Excel
 
-📊 **Excel Model:** [Monte Carlo Simulation – Wipro](./Monte-Carlo-Simulation-Wipro.xlsx)
-
 ---
 
-### 2. Technical Trade Planning & Trading Strategy Development – Zomato Ltd.
+### 2. Technical Trade Planning & Trading Strategy Development – Zomato Ltd. | [Project Report](PASTE_GITHUB_LINK_HERE)
 
-Developed a rule-based trading strategy using multiple technical indicators to identify potential trading opportunities.
+**Project Overview**
+- Developed a rule-based trading strategy using multiple technical indicators.
+- Identified potential buy and sell opportunities based on indicator confirmation.
+- Evaluated trade entries, exits, stop-loss, take-profit levels, and risk-reward ratios.
 
-**Key Highlights**
-- RSI
-- MACD
+**Technical Indicators Used**
+- Relative Strength Index (RSI)
+- Moving Average Convergence Divergence (MACD)
 - Candlestick Patterns
-- Entry & Exit Strategy
-- Stop Loss & Take Profit
 - Risk-Reward Analysis
 
-📄 **Project Report:** [Technical Trade Planning – Zomato](./Technical-Trade-Planning-Zomato.pdf)
-
 ---
 
-### 3. Technical Trend Reversal Analysis – Hindustan Unilever Ltd.
+### 3. Technical Trend Reversal Analysis – Hindustan Unilever Ltd. | [📄 Project Report](PASTE_GITHUB_LINK_HERE)
 
-Analyzed price trends to identify bullish and bearish reversals using technical indicators and price action.
+**Project Overview**
+- Performed technical analysis to identify bullish and bearish trend reversal opportunities.
+- Evaluated historical price movements using price action and technical indicators.
+- Generated trading signals based on multiple confirmation techniques.
 
-**Key Highlights**
+**Technical Indicators Used**
 - Trend Line Analysis
 - RSI Divergence
 - Candlestick Patterns
-- Morning Star & Evening Star
+- Morning Star Pattern
+- Evening Star Pattern
 - Buy/Sell Signal Identification
-
-📄 **Project Report:** [Technical Trend Reversal – HUL](./Trend-Reversal-HUL.pdf)
 
 ---
 
 ## Technical Skills
 
+### Financial Analysis
 - Equity Research
 - Financial Analysis
 - Investment Research
-- Technical Analysis
 - Financial Modeling
 - Risk Analytics
+
+### Technical Analysis
+- RSI
+- MACD
+- Candlestick Analysis
+- Trend Line Analysis
+- Technical Trading Strategies
+
+### Quantitative Analysis
 - Monte Carlo Simulation
+- Geometric Brownian Motion (GBM)
 - Value at Risk (VaR)
 - Conditional Value at Risk (CVaR)
+
+### Tools
 - Microsoft Excel
