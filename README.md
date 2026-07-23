@@ -41,7 +41,7 @@ I am an MBA (Finance) student with a strong interest in **Equity Research, Finan
 
 ---
 
-### 3. Technical Trend Reversal Analysis – Hindustan Unilever Ltd. | [📄 Project Report](PASTE_GITHUB_LINK_HERE)
+### 3. Technical Trend Reversal Analysis – Hindustan Unilever Ltd. |  [Project Report](https://github.com/MadhuraDutta/Finance-MADHURA-DUTTA/blob/main/TREND%20REVERSAL-HUL.pdf)
 
 **Project Overview**
 - Performed technical analysis to identify bullish and bearish trend reversal opportunities.
